@@ -1,0 +1,7 @@
+# ignoring modules
+game_env
+
+# python & pycharm
+.idea
+__pycache__
+
